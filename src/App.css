@@ -1,0 +1,19 @@
+.div___navigation {
+  display: flex;
+  justify-content: space-between;
+}
+
+.img___home {
+  height: 300px;
+  margin-left: 50px;
+}
+
+.img___shop {
+  height: 250px;
+  margin-left: 50px;
+}
+
+.div___shop {
+  display: flex;
+  flex-wrap: wrap;
+}
